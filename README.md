@@ -1,0 +1,1 @@
+Attendify email templates
